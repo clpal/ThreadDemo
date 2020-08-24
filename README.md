@@ -1,4 +1,4 @@
-# threads
+# Threads
 ##### <b>aSyncTaskDemo: </b>
  aSyncTaskDemo is an example using the aSyncTask class instead of threads. It counts from 0 to 100 (by 5).
 ##### <b>SimpleThreadDemo: </b> 
